@@ -1,5 +1,3 @@
-Aquí tienes una versión corregida y mejorada del texto:
-
 ## Portafolio Odoo
 
 Mi nombre es Jaime Guerrero Rangel. Este repositorio contiene todos mis módulos y cambios realizados en Odoo. Espero que sea útil para otros y que muestre mis habilidades como programador.
