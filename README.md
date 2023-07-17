@@ -22,12 +22,12 @@ Mis cambios y módulos abarcan tanto aspectos visuales como funcionales. En este
 
 Este repositorio incluye módulos y cambios compatibles con diferentes versiones de Odoo. A continuación, se encuentran enlaces directos a las carpetas correspondientes a cada versión:
 
-- [Odoo 10](./odoo10/)
+- [Odoo 10](.//)
 - [Odoo 11](./odoo11/)
 - [Odoo 12](./odoo12/)
 - [Odoo 13](./odoo13/)
 - [Odoo 14](./odoo14/)
-- [Odoo 15](./odoo15/)
+- [Odoo 15](./Odoo%2015/)
 - [Odoo 16](./odoo16/)
 
 Cada enlace dirige a la carpeta específica donde se encuentran los módulos o cambios compatibles con la versión correspondiente de Odoo. Los usuarios pueden hacer clic en los enlaces para acceder directamente a la versión de Odoo que les interese.
