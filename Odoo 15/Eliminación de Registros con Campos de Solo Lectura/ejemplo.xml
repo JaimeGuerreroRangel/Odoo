@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data>
+        
+        <!-- Coded by: Jaime Guerrero (jaime.guerrero@exdoo.mx)-->
+        
+        <record id="wizard_read_xml_form" model="ir.ui.view">
+            <field name="name">wizard.read.xml.form</field>
+            <field name="model">wizard.read.xml</field>
+            <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Importar XML" >
+                    <field name="lines" nolabel="1" readonly="0">
+                        <tree string="Facturas" editable="bottom" create="false"> 
+                            <field name="file" readonly="1"/>
+                            <field name="partner_id" readonly="1"/>
+                            <field name="type" readonly="1"/>
+                            <field name="currency_id" readonly="1"/>
+                            <field name="state" readonly="1"/>
+                            <field name="status_xml" readonly="1"/>
+                            <field name="msg" readonly="1"/>
+                        </tree>
+                    </field>
+            </field>        
+    </data>
+</odoo>
